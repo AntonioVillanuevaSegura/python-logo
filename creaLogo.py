@@ -2,6 +2,7 @@
 """
 Antonio Villanueva Segura
 Crea un fichero de coordenadas desde una imagen 
+
 """
 
 import sys
